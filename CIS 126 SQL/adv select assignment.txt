@@ -1,0 +1,78 @@
+1. 	select * into MarinerMast from battingBackup
+	where teamid = 'sea'
+
+
+2. 	create view vwSeattlePlayers as
+
+	select * from battingBackup
+	where teamid = 'sea'
+
+
+3. 	select nameFirst, birthDate, weight from players
+	where  weight<='250' and weight>'200' 
+
+
+4. 	select nameFirst, birthDate, weight from players
+	where weight between 200 and 250
+
+
+5.	select nameFirst, birthDate, weight from players
+	where weight not between 200 and 250 
+
+
+6.	select nameFirst + ' ' + nameLast 'Name',
+	case when bats='L' then 'Left'
+ 	when bats='R' then 'Right'
+ 	when bats='B' then 'Both'
+	else 'Unknown' end as bats
+	from players	
+
+
+7.	select * from players
+	where debutDate between 01/01/19 and 12/31/1959
+
+
+8. 	select * from players
+	where birthState in ('WA', 'OR','ID','CA')
+
+
+9. 	select * from players
+	where birthCountry NOT IN ('USA')
+
+
+10.	select nameFirst, nameLast,birthCountry from players
+	where birthCountry NOT IN ('USA')
+
+
+11.	select nameFirst, nameLast,weight,
+	case when weight <150 then 'Small'
+	 when weight <=175 then 'Light'
+	 when weight <=220 then 'Medium'
+	 when weight <=250 then 'Heavy'
+	 when weight >250 then 'Huge'
+	 else 'unknown' end as Build
+	from players
+
+
+12. 	create view vwWeightDistribution as
+
+	select nameFirst, nameLast,weight,
+	case when weight <150 then 'Small'
+	 when weight <=175 then 'Light'
+	 when weight <=220 then 'Medium'
+	 when weight <=250 then 'Heavy'
+	 when weight >250 then 'Huge'
+	 else 'unknown' end as Build
+	from players
+
+
+
+13.	select nameLast from players
+	where nameLast like 'Rob%'
+
+
+
+14.	select * from players
+	where birthCountry like 'US%'
+
+

@@ -1,0 +1,152 @@
+1.
+
+SELECT        Managers.*
+
+FROM            Players INNER JOIN
+
+                         Managers ON Players.playerIDpk = Managers.playerID
+
+Amount = 3404
+
+ 
+
+2. 
+
+SELECT        Managers.*
+
+FROM            Players LEFT OUTER JOIN
+
+                         Managers ON Players.playerIDpk = Managers.playerID
+
+Amount = 21555
+
+ 
+
+3.
+
+The difference is on a left join it gives all parent record included even if no child records exist. Therefore, the inner join is the opposite includes a parent record if a child record doesn’t exist.
+
+ 
+
+4.
+
+CREATE VIEW vwPlayerManagers as
+
+SELECT        Managers.ManagersIDpk, Managers.playerID, Managers.yearID, Managers.teamID, Managers.lgID, Managers.inseason, Managers.G, Managers.W, Managers.L, Managers.rank, Managers.plyrMgr, Managers.bPlyrMgr
+
+FROM            Players INNER JOIN
+
+                         Managers ON Players.playerIDpk = Managers.playerID
+
+ 
+
+5.
+
+select players.playeridpk, players.nameFirst, players.nameLast,Managed.TotalGames
+from players inner join (
+select playerid,sum(g) TotalGames from Managers
+group by playerid) Managed on players.playerIDpk=Managed.playerid
+
+ 
+
+6.
+
+select players.playeridpk, players.nameFirst, players.nameLast,MostWins.Wins,l
+
+from players inner join (
+
+select w 'Wins',l,playerid from Managers
+
+where w > l) MostWins on players.playerIDpk=MostWins.playerid
+
+ 
+
+7.
+
+select playerid, teamid,sum(g) TotalGames from vwPlayerManagers
+
+group by playerid, teamid
+
+having sum(g)=(select max(TotalGames) TotalGames from(
+
+select playerid, teamid,sum(g) TotalGames from Managers
+
+group by playerid, teamid) mgrTotalGames)
+
+ 
+
+8.
+
+select players.playeridpk,Managed.inseason
+
+from players inner join (
+
+select playerid,inseason from Managers
+
+where inseason = 9) Managed on players.playerIDpk=Managed.playerid
+
+ 
+
+9.
+
+select players.playeridpk,Managed.year
+from players inner join (
+select top (1) playerid, count(distinct yearid) 'year' from managers
+group by playerid
+order by year desc
+) Managed on players.playerIDpk=Managed.playerid
+
+ 
+
+10.
+
+select teamid, count(distinct playerid) 'amtOfManagers' from Managers
+group by teamid
+having count(distinct playerid)=(select max(amtOfManagers)'MaxPlayerid' from(select teamid, count(distinct playerid)'amtOfManagers' from Managers
+group by teamid) Managed )
+
+ 
+
+11.
+
+select min(smallest)'smallest' from(select playerid, min(height)'smallest' from vwManagerHeight
+group by playerid, height
+) SmallestManager
+
+ 
+
+12.
+
+select count(birthCountry)'country' from(select playerid,count(distinct birthcountry)'birthCountry' from vwForeignManagers
+where not birthCountry = 'USA'
+group by playerid
+) ForeignManagers
+
+ 
+
+ 
+
+13.
+
+create view vwPlayer as
+
+SELECT Players.playerIDpk, Players.birthDate, Players.birthCountry, Players.birthState, Players.birthCity, Players.deathDate, Players.deathCountry, Players.deathState, Players.deathCity, Players.nameFirst, Players.nameLast, 
+Players.nameGiven, Players.weight, Players.height, Players.bats, Players.throws, Players.debutDate, Players.finalGameDate, Batting.BattingIDPK, Batting.playerID, Batting.yearID, Batting.stint, Batting.teamID, Batting.lgID, 
+Batting.G, Batting.G_batting, Batting.AB, Batting.R, Batting.H, Batting.B2, Batting.B3, Batting.HR, Batting.RBI, Batting.SB, Batting.CS, Batting.BB, Batting.SO, Batting.IBB, Batting.HBP, Batting.SH, Batting.SF, Batting.GIDP
+FROM Players INNER JOIN
+Batting ON Players.playerIDpk = Batting.playerID
+
+ 
+
+14.
+
+select playerid, max(hr)'hommer' from vwPlayerBatting
+group by playerID
+having max(hr)=(select max(hommer) 'hommer'from(select playerid, max(hr)'hommer' from vwPlayerBatting
+group by playerID) mostHommers)
+
+ 
+
+15. 
+
+Note: This one was my fault I didn't know where to start and I couldn't contact you in time for advice. This assignment was awesome though other than that! 

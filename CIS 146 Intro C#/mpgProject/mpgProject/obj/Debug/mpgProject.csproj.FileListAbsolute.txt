@@ -1,0 +1,10 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\bin\Debug\mpgProject.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\bin\Debug\mpgProject.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\bin\Debug\mpgProject.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\obj\Debug\mpgProject.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\obj\Debug\mpgProject.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\obj\Debug\mpgProject.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\obj\Debug\mpgProject.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\obj\Debug\mpgProject.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\obj\Debug\mpgProject.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\mpgProject\mpgProject\obj\Debug\mpgProject.pdb

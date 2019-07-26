@@ -1,0 +1,10 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\bin\Debug\Practiceman.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\bin\Debug\Practiceman.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\bin\Debug\Practiceman.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\obj\Debug\Practiceman.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\obj\Debug\Practiceman.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\obj\Debug\Practiceman.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\obj\Debug\Practiceman.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\obj\Debug\Practiceman.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\obj\Debug\Practiceman.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practiceman\Practiceman\obj\Debug\Practiceman.pdb

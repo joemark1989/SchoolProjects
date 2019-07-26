@@ -1,0 +1,126 @@
+html {
+  font-size: 1rem;
+}
+
+body, main {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 400;
+  margin: 0 auto;
+  color: #6a6a6a;
+}
+
+.flex-container {
+  display: flex;
+  max-width: 71.25rem;
+  margin: 0 auto;
+  padding: 0.625rem;
+}
+
+.header-box {
+  background-image: url('/images/slide3.jpg');
+  background-position: center;
+  height: 16.66rem;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  color: aliceblue;
+  text-transform: uppercase;
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, .15);
+}
+.header-p{
+  /*color: white;*/
+  font-size: 1.5rem;
+  display: flex;
+  bottom: 100%;
+}
+.FC{
+  justify-content: center;
+  align-items: center;
+}
+.img{
+  background-position: center;
+  height: 16.66rem;
+  display: flex;
+  justify-content: center;
+}
+
+/* --------------------------------------- NAVBAR STYLES */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: #6a6a6a;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #5287ac;
+}
+
+.container {
+  max-width: 71.25rem;
+  margin: 0 auto;
+}
+
+.Navbar {
+  /*background-color: #46ACC2;*/
+  display: flex;
+  padding: 1rem;
+  font-family: 'Oxygen', sans-serif;
+  color: white;
+  font-size: 1.25rem;
+}
+
+.Navbar__Link {
+  padding-right: 0.5rem;
+  justify-content: center;
+  flex-grow: 1;
+  margin: 1rem;
+
+}
+
+.Navbar__Items {
+  display: flex;
+}
+
+.Navbar__Items--right {
+  margin-left: auto;
+}
+
+.Navbar__Link-toggle {
+  display: none;
+  color: black;
+
+}
+
+@media only screen and (max-width: 768px) {
+  .Navbar__Items,
+  .Navbar {
+    flex-direction: column;
+  }
+
+  .Navbar__Items {
+    display: none;
+  }
+
+  .Navbar__Items--right {
+    margin-left: 0;
+  }
+
+  .Navbar__ToggleShow {
+    display: flex;
+  }
+
+  .Navbar__Link-toggle {
+    align-self: flex-end;
+    display: initial;
+    position: absolute;
+    cursor: pointer;
+  }
+}

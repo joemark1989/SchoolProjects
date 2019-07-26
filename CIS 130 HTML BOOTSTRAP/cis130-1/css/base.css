@@ -1,0 +1,296 @@
+/*Joseph Markley*/
+/**********GLOBAL STYLES**********/
+
+/* TURN OFF BOX MODEL */
+html {
+  box-sizing: border-box;
+  font-size: 12px; /* 1rem*/
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Roboto', sans-serif; /* add in Google Fonts*/
+  font-weight: 400;
+  margin: 0;
+  padding-top: 40px;
+  color: #999999;
+}
+
+.top-bar {
+  display: none;
+}
+
+.container {
+  max-width: 71.25rem; /*1140px*/
+  margin: 0 auto;
+}
+
+.cf::after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+
+  /*  padding: 1.25rem; /*20px*/
+  background-color: white;
+  line-height: 1.5em;
+}
+
+main h2 {
+  color: #e22121;
+}
+
+p {
+  margin: 0 0 1rem 0
+}
+
+/* -------------------HEADER STYLES ----------------*/
+
+header {
+  background-color: #3b4044;
+  padding: 1.25rem; /*20px*/
+  color: #fff;
+  width: 100%;
+}
+
+header h1,
+header h2 {
+  margin: 0;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+header h2 {
+  font-style: italic;
+  display: none;
+}
+
+.hero {
+  background-image: url("../images/kidsStockSmall.jpg");
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 16.66rem
+}
+/*------------------------------- Responsive Column Grid */
+[class^="col-"]{ /* any class that starts with col-*/
+  padding: .5em 2%;
+  width: 100%;
+
+}
+/*---------------------------Navigation----*/
+nav {
+  padding: 0.5em;
+  color: #fff;
+  background: #e22121;
+  background: linear-gradient(#e22121, #ed7878);
+  text-transform: uppercase;
+  width: 100%;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none
+}
+
+@media only screen and (max-width: 640px) {
+
+  /* Navigation Button  */
+  .nav-button {
+    display: block;
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    z-index: 999; /*makes sure it sits on top of everything else*/
+  }
+
+  .nav-button:hover {
+    background-color: rgba(0, 0, 0, .1);
+  }
+
+  .primary-nav {
+    width: 641px;
+    float: none;
+    background: #e22121;
+    background: linear-gradient(#e22121, #ed7878);
+    /* display: block;*/
+    height: 40px;
+    /*  margin: 0;
+      padding: 0;*/
+    /*  overflow: hidden;*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 998;
+    clear: both;
+  }
+
+  .primary-nav li {
+    display: none;
+    width: 100%;
+  }
+
+  .primary-nav li a {
+    display: block;
+    width: 100%;
+    padding: 10px 5%;
+    font-weight: 900;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, .15);
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    border-top: 1px solid rgba(255, 255, 255, .1);
+  }
+
+  .primary-nav li a:hover {
+    background-color: rgba(0, 0, 0, .5);
+    border-top-color: transparent;
+  }
+
+  .primary-nav > li:first-child {
+    border-top: 1px solid rgba(0, 0, 0, .2);
+  }
+
+  /* Toggle the navigation bar open  */
+  .primary-nav.open {
+    height: auto;
+    padding-top: 40px; /*changed by Paul*/
+
+  }
+
+  .primary-nav.open li {
+    display: block;
+
+  }
+}
+
+/* ----------------------FOOTER NAVIGATION ----------*/
+
+nav.footer-nav {
+  background: transparent;
+  background: linear-gradient(transparent, transparent)
+}
+
+.footer-nav ul, .footer-nav li {
+  width: 100%;
+  text-align: left;
+  color: black;
+  padding: 0;
+  line-height: 1.5;
+}
+/* ------------------------------Home Page ----*/
+section {
+  padding: 1.25rem;
+}
+.specials img, .products img, figure img {
+  margin: 0 auto;
+}
+/* ------------------------------Products Page ----*/
+figure {
+  max-width: 60%;
+  margin: 0 auto 1em auto;
+  border: .2em solid red;
+  border-radius: 10%;
+  text-align: center;
+  transition: border-width 0.6s linear;
+  box-shadow: 0.4em 0.4em 1em gray;
+}
+
+figure:hover {
+  border-width: .4em;
+}
+
+
+figcaption {
+  text-align: center;
+  font-weight: bold;
+}
+
+
+/* ---------------------------------Footer ----*/
+.top-footer { /* This is 100% page width*/
+  padding: 0 1.25rem; /*20px*/
+  background-color: rgb(221, 217, 217);
+  color: black;
+}
+
+
+footer {
+  text-align: center;
+  padding: 0.625rem 0; /*10px*/
+  color: #fff;
+  background-color: rgb(177, 175, 175);
+  margin-bottom: 3.125rem; /* 50px*/
+}
+
+/*--------------------------------SOCIAL ICONS*/
+.fab.fa-twitter-square,
+.fab.fa-google-plus-square,
+.fab.fa-facebook-square,
+.fab.fa-reddit-square {
+  font-size: 2.1875rem; /* 35px*/
+}
+
+.fab.fa-twitter-square {
+  color: #1da1f2;
+}
+
+.fab.fa-google-plus-square {
+  color: #ea4335;
+}
+
+.fab.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fab.fa-reddit-square {
+  color: #ff4500;
+}
+
+/*---------------------------------FORM STYLES*/
+input {
+  padding: 0.625rem; /*10px*/
+}
+
+#contact input,
+#contact label {
+  display: inline-block;
+  text-align: right;
+}
+
+#contact input {
+  padding: 0.625rem; /*10px*/
+  text-align: left;
+  margin: 0 0 5px 0;
+}
+
+#contact label {
+  width:9.833333333333334rem;
+}
+
+#contact {
+  /* background-color: #ed7878;*/
+  /*    width: 780px;*/
+  margin: 0 1.25rem auto;
+}
+
+#contact.button {
+  text-align: center;
+}
+
+#contact fieldset {
+  border: 1px solid #eee;
+  border-radius: 0.9375rem; /*15px*/
+}
+

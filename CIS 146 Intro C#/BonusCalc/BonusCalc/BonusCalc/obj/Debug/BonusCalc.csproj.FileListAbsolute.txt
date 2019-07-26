@@ -1,0 +1,19 @@
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\bin\Debug\BonusCalc.exe.config
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\bin\Debug\BonusCalc.exe
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\bin\Debug\BonusCalc.pdb
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\obj\Debug\BonusCalc.csprojResolveAssemblyReference.cache
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\obj\Debug\BonusCalc.Form1.resources
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\obj\Debug\BonusCalc.Properties.Resources.resources
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\obj\Debug\BonusCalc.csproj.GenerateResource.Cache
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\obj\Debug\BonusCalc.exe
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\BonusCalc\BonusCalc\obj\Debug\BonusCalc.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\bin\Debug\BonusCalc.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\bin\Debug\BonusCalc.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\bin\Debug\BonusCalc.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\obj\Debug\BonusCalc.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\obj\Debug\BonusCalc.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\obj\Debug\BonusCalc.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\obj\Debug\BonusCalc.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\obj\Debug\BonusCalc.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\obj\Debug\BonusCalc.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\BonusCalc\BonusCalc\BonusCalc\obj\Debug\BonusCalc.pdb

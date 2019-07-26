@@ -1,0 +1,54 @@
+-- Batting AVG
+
+select nameFirst+' '+nameLast 'Full Name', max(BA)'Batting AVG' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012 and ab > 500
+group by nameFirst,nameLast
+having max(BA)=(select max(BA) 'BA'from(select max(BA)'BA' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012 and ab > 500) battingAVG)
+
+-- Home runs
+
+select nameFirst+' '+nameLast 'Full Name', max(HR)'Home Runs' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012
+group by nameFirst,nameLast
+having max(HR)=(select max(HR) 'BA'from(select max(HR)'HR' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012) HomeRuns)
+
+-- MOST RBI'S
+
+select nameFirst+' '+nameLast 'Full Name', max(RBI)'RBI' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012
+group by nameFirst,nameLast
+having max(RBI)=(select max(RBI) 'RBI'from(select max(RBI)'RBI' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012) mostRBI)
+
+
+-- OBP
+
+select nameFirst+' '+nameLast 'Full Name',max((h+bb+hbp)/(ab+bb+hbp*1.0)) 'OBP' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012 and ab > 400
+group by nameFirst,nameLast
+having max((h+bb+hbp)/(ab+bb+hbp*1.0))=(select max((h+bb+hbp)/(ab+bb+hbp*1.0)) 'OBP' from(select max((h+bb+hbp)/(ab+bb+hbp*1.0)) 'OBP' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012 and ab > 400 ) OBP)
+
+-- Most hits
+
+select nameFirst+' '+nameLast 'Full Name', max(H)'Hits' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012
+group by nameFirst,nameLast
+having max(H)=(select max(Hits) 'Hits'from(select max(H)'Hits' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012) mostHits)
+
+
+-- Body
+
+select nameFirst +' '+ nameLast 'NAME',G,AB,R,H,b2'2B',b3'3B',HR,RBI,(S+b2*2+b3*3+hr*4) 'TB',BB,SO 'K',(H*1.0)/(Case when AB=0 then 1 else AB end) 'BA',
+(h+bb+hbp)/(ab+bb+hbp*1.0) 'OBP',(1.0*(S+b2*2+b3*3+hr*4)/(ab)) 'SLG',(1.0*(h+bb+hbp)/(ab+bb+hbp))+(1.0*(S+b2*2+b3*3+hr*4)/(ab)) 'OPS' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012 and AB > 0
+order by ab desc
+
+-- Total
+									
+select	'Total',sum(ab) 'AB',sum(R) 'R',sum(H) 'H',sum(b2)'2B',sum(b3)'3B',sum(HR)'HR',sum(RBI)'RBI',sum((S+b2*2+b3*3+hr*4)) 'TB',sum(BB)'BB',sum(SO) 'K',
+sum((H*1.0)/(Case when AB=0 then 1 else AB end)) 'BA',sum((h+bb+hbp)/(ab+bb+hbp*1.0)) 'OBP',sum((1.0*(S+b2*2+b3*3+hr*4)/(ab))) 'SLG',sum((1.0*(h+bb+hbp)/(ab+bb+hbp))+(1.0*(S+b2*2+b3*3+hr*4)/(ab))) 'OPS' from vwPlayerBatting
+where teamID = 'LAN' and yearID = 2012 and ab > 0	

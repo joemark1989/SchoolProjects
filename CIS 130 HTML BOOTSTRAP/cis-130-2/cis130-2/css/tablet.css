@@ -1,0 +1,46 @@
+/*  TABLET  MEDIA QUERY */
+@media only screen and (min-width: 641px) {
+  html {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 50px;
+  }
+
+  .header-box {
+    background-image: url('/images/slide3.jpg');
+    background-position: center;
+    height: 25rem;
+    display: flex;
+  }
+
+}
+
+/*!* Responsive Column Grid*!*/
+/*!*----- 12 COLUMN LAYOUT -----*!*/
+/*.col-3, .col-4, .col-6, .col-9, .col-10, .col-12 {*/
+/*float: left;*/
+/*}*/
+/*.col-3 {*/
+/*width: 45%;  !*fix for 4 to 2 to one column transition*!*/
+/*min-height: 200px;*/
+/*}*/
+/*.col-4 {*/
+/*width: 33.3333%;*/
+/*}*/
+/*.col-6 {*/
+/*width: 50%;*/
+/*}*/
+/*.col-9 {*/
+/*width: 75%;*/
+/*}*/
+/*.col-10 {*/
+/*width: 83%;*/
+/*}*/
+/*aside.col-3.last {*/
+/*padding-left: 2rem;*/
+/*}*/
+/*figure {*/
+/*max-width: 98%;*/
+/*}*/

@@ -1,0 +1,7 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\nested if\nested if\bin\Debug\nested if.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\nested if\nested if\bin\Debug\nested if.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\nested if\nested if\bin\Debug\nested if.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\nested if\nested if\obj\Debug\nested if.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\nested if\nested if\obj\Debug\nested if.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\nested if\nested if\obj\Debug\nested if.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\nested if\nested if\obj\Debug\nested if.pdb

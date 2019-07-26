@@ -1,0 +1,33 @@
+/* MOBILE FIRST SO MOBILE IS DEFAULT OR BASE STYLESHEET */
+body{margin:0;}
+h1{color:red; text-align: center;}
+.hero{
+  background-image:url("images/kidsStockSmall.jpg");
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 12.5rem; /*200px*/
+}
+/*TABLET MEDIA QUERY*/
+@media only screen and (min-width: 641px){
+
+  h1{color:green;}
+  .hero {
+    background-image: url("images/kidsStockMedium.jpg");
+    background-position: center center;
+    height: 25rem; /*400px*/
+  }
+
+}
+/*DESKTOP MEDIA QUERY*/
+@media only screen and (min-width: 1140px){
+
+  h1{color:blue;}
+  .hero {
+    background-image: url("images/kidsStockMedium.jpg");
+    height: 31.25rem; /*500px*/
+  }
+} /* END OF MEDIA QUERY*/
+
+
+
+

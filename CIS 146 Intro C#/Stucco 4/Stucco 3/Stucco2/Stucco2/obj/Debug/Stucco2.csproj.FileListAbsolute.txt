@@ -1,0 +1,40 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\bin\Debug\Stucco2.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\bin\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\bin\Debug\Stucco2.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\obj\Debug\Stucco2.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\obj\Debug\Stucco2.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\obj\Debug\Stucco2.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\obj\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco2\Stucco2\obj\Debug\Stucco2.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\bin\Debug\Stucco2.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\bin\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\bin\Debug\Stucco2.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\obj\Debug\Stucco2.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\obj\Debug\Stucco2.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\obj\Debug\Stucco2.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\obj\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\testing stucco 2\Stucco2\Stucco2\obj\Debug\Stucco2.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\bin\Debug\Stucco2.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\bin\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 3\Stucco2\Stucco2\bin\Debug\Stucco2.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\bin\Debug\Stucco2.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\bin\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\bin\Debug\Stucco2.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Stucco 4\Stucco 3\Stucco2\Stucco2\obj\Debug\Stucco2.pdb

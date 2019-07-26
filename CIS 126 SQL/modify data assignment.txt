@@ -1,0 +1,89 @@
+create table DogLicense(
+LicenseIDPK		int primary Key Identity(1,1),
+Expires			date check(Expires> '01-01-1990') not null,
+Sex				varchar(2) check(sex = 'M' or sex = 'F' or sex = 'NM' or sex = 'SF') not null,
+PetName			nvarchar(30),
+Breed			nvarchar(30),
+OwnerLastName	nvarchar(50) not null,
+OwnerFirstName	nvarchar(50),
+Address			nvarchar(100) not null,
+City			nvarchar(50)default'Spokane',
+State			nvarchar(50)default'WA',
+Zip				varchar(5),
+Phone			nvarchar(20),
+Fee				varchar(50) not null,
+AggressiveDog	varchar(1) check(AggressiveDog = 'T' or AggressiveDog = 'F')default'f'
+)
+
+1. Note:  I repeated the first one 4 times because I showed the insert examples of all other possiblities. 
+
+insert into DogLicense(Expires,Sex,PetName,Breed,OwnerLastName,OwnerFirstName,Address,City,State,Zip,Phone,Fee,AggressiveDog)
+values('1-1-2000','F','Jasmine','Mastiff','Jones','Dave','123 Main St','Portland','OR','82813','2806601121','$50.00','F')
+
+
+ insert into DogLicense(Expires,Sex,PetName,Breed,OwnerLastName,OwnerFirstName,Address,City,State,Zip,Phone,Fee,AggressiveDog)
+values('1-1-2010','M','Jam','Mastiff','Jones','Sally','123 Main Rd','Portland','OR','12121','2806601121','$100.00','T')
+
+insert into DogLicense
+(Expires,Sex,PetName,Breed,OwnerLastName,OwnerFirstName,Address,City,State,Zip,Phone,Fee)
+values('1-1-2014','NM','Smalls','Lab','Wilder','Zac','123 Main AVE','Portland','OR','01011','208121111','$60.00')
+
+insert into DogLicense
+(Expires,Sex,PetName,Breed,OwnerLastName,OwnerFirstName,Address,City,State,Zip,Phone,Fee)
+values('1-1-2011','SF','Big','Lab','Big','Sally','123 Main Lane','Portland','OR','21212','2110102221','$60.00')
+
+insert into DogLicense
+(Expires,Sex,PetName,Breed,OwnerLastName,OwnerFirstName,Address,State,Zip,Phone,Fee)
+values('1-1-2011','M','Otter','Poodle','Little','Sally','123 Main HWY','OR','21212','0112121111','$60.00')
+
+insert into DogLicense
+ (Expires,Sex,PetName,Breed,OwnerLastName,OwnerFirstName,Address,Zip,Phone,Fee)
+values('1-1-2012','F','Seagull','Labordoodle','Huge','Sally','123 Main Route','99812','5095555555','$60.00')
+
+2. 
+
+update DogLicense
+set Phone='(509) 555-9897'
+where LicenseIDPK = 9
+
+3. 
+
+delete from DogLicense
+where OwnerFirstName = 'Zac'
+
+4.
+
+update DogLicense
+set city = 'Spokane Valley'
+
+5.
+
+update DogLicense
+set fee = $50.00
+where sex = 'M' or sex = 'F'
+
+6.
+
+update DogLicense
+set fee = $35.00
+where sex = 'SF' or sex = 'NM'
+
+7.
+
+delete DogLicense
+where AggressiveDog = 'T'
+
+8. I think this is what you wanted? 
+
+LicenseIDPK	Expires	Sex	PetName	Breed	OwnerLastName	OwnerFirstName	Address	City	State	Zip	Phone	Fee	AggressiveDog
+1	2000-01-01	F	Jasmine	Mastiff	Jones	Dave	123 Main St	Spokane Valley	OR	82813	2806601121	50.00	F
+4	2011-01-01	SF	Big	Lab	Big	Sally	123 Main Lane	Spokane Valley	OR	21212	2110102221	35.00	f
+5	2011-01-01	M	Otter	Poodle	Little	Sally	123 Main HWY	Spokane Valley	OR	21212	0112121111	50.00	f
+6	2012-01-01	F	Seagull	Labordoodle	Huge	Sally	123 Main Route	Spokane Valley	WA	99812	5095555555	50.00	f
+8	2000-01-01	F	Jasmine	Mastiff	Jones	Dave	123 Main St	Spokane Valley	OR	82813	2806601121	50.00	F
+9	2000-01-01	F	Jasmine	Mastiff	Jones	Dave	123 Main St	Spokane Valley	OR	82813	(509) 555-9897	50.00	F
+10	2000-01-01	F	Jasmine	Mastiff	Jones	Dave	123 Main St	Spokane Valley	OR	82813	2806601121	50.00	F
+
+
+
+

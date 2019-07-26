@@ -1,0 +1,31 @@
+/*img.logo{*/
+  /*border: 1px solid red;*/
+/*}*/
+.slider img{
+  width: 100%;
+  /*border: none;*/
+  max-height: 550px;
+  overflow: hidden;
+}
+.welcome,
+.stories,
+.deals{
+  width: 100%;
+  min-height: 300px;
+}
+.stories{
+  background-color: #f8f9fa;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+
+}
+footer{
+  background-color: #021823;
+  min-height: 100px;
+}
+@media(max-width: 575.98px){
+  img.logo{
+    max-width: 166px;
+    /*border: 1px solid green;*/
+  }
+}

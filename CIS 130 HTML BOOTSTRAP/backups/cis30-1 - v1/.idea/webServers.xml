@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4067c7bd-d73d-4b46-ae61-58f5fa97744c" name="cis130-1" url="http://cis130-1.theworldchamp.club/">
+        <fileTransfer host="cis130-1.theworldchamp.club" port="21" rootFolder="/cis130-1.theworldchamp.club">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

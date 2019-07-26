@@ -1,0 +1,95 @@
+
+1. From the Weather database. Spokane2017 table, produce a SQL statement that generates a list of all data in the order of the primary key. (2)
+SELECT statement:
+
+ select * from Spokane2017
+
+
+a. Sort by Record Low highest to lowest.(2)
+SELECT statement:
+
+
+select RecLo from Spokane2017
+order by RecLo DESC
+
+
+b. Include only the fields Month, Day, AvgLo(2)
+SELECT statement:
+
+select month, day, AvgLo from Spokane2017
+
+
+
+c. Modify your output so that AVGLo reads “AverageLow” (2)
+SELECT statement:
+
+select month, day, AvgLo AverageLow from Spokane2017
+
+
+
+d. Yet again, modify the previous problem that produces that Average Low for today’s date.  Remove the ORDER BY clause since it is useless when 1 record is returned.  (2)
+SELECT statement:
+
+select month, day, AvgLo AverageLow from Spokane2017
+where month = 1 and day = 18 
+
+
+2. Write a Select to list only the 5th day of each month.  Include the columns Month, Day AvgHi and AvgLo. (3)
+SELECT statement:
+
+select month, day, AvgLo, AvgHi from Spokane2017
+where day =+ 5
+
+
+3. Using the Baseball2015 database and Players table, write a select statement that will display the tallest player’s name and height in feet.  Here is a hint, add the statement TOP 1 directly after your SELECT keyword and before your field list.  That will give you the top record.  Explain a major weakness of the TOP 1 statement as we are using it (think!).  (3)
+
+a. Who?
+
+Jon Rauch
+
+b. SELECT statement
+
+select top 1 nameLast, nameFirst, height/12.0 'height' from players 
+order by 'height' desc
+
+c. Weakness in using TOP when determining the person who is tallest for example:
+
+The weakness using top is it doesn't give an accurate depction of who is atually the tallest. An example with height would be, if someone is also 6.916666 then it will not show that other player it would just show the one player. 
+
+
+4. Use the baseball Players  table to locate the PlayerID for Willie Mays.  Use a select to find the record by name.(2)
+
+ PlayerIDpk:  mayswi01
+
+ SELECT statement
+
+select * from players
+where nameLast = 'Mays' and nameFirst = 'Willie'
+
+
+5. Use the previous playerID to find all Willie Mays data in the batting table.  Provide the SELECT statement. (4)
+       SELECT statement:
+
+select *  from Batting
+where playerID = 'mayswi01'
+
+
+6. How many name in the Players  table died before 1960?  Hint – write the SELECT and run it.  When the data is returned the number of records will display in the bottom right corner of the output in Management Studio.  We will rely on this method for only a short period. (4)
+
+#:  415
+
+ SELECT statement
+
+select * from players
+where deathDate < 1960
+
+
+ 7. Who was the oldest (born earliest) player we can identify?  (4)
+
+ #: Alexander Cartwright born 1820-04-17
+
+ SELECT statement
+
+select * from players
+where birthDate is not null
+order by birthDate

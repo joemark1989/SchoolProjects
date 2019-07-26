@@ -1,0 +1,2 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\switch\switch\obj\Debug\switch.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache

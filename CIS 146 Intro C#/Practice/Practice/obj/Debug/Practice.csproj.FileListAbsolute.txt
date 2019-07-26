@@ -1,0 +1,7 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache

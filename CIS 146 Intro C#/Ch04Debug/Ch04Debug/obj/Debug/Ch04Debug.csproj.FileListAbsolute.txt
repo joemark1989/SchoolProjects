@@ -1,0 +1,9 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\bin\Debug\Ch04Debug.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\bin\Debug\Ch04Debug.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\obj\Debug\Ch04Debug.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\obj\Debug\Ch04Debug.DebugForm.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\obj\Debug\Ch04Debug.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\obj\Debug\Ch04Debug.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\obj\Debug\Ch04Debug.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\obj\Debug\Ch04Debug.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\Ch04Debug\Ch04Debug\obj\Debug\Ch04Debug.pdb

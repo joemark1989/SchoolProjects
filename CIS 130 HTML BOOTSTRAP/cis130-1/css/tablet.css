@@ -1,0 +1,102 @@
+/*  TABLET  MEDIA QUERY */
+@media only screen and (min-width: 641px) {
+  html {
+    font-size: 16px;
+  }
+
+  body {
+    padding-top: 0;
+  }
+
+  .nav-button {
+    display: none;
+  }
+
+  .top-bar {
+    display: block; /* It is hidden on phone... brings it back*/
+    background-color: #e22121;
+    background: linear-gradient(#e22121, #ed7878);
+    height: .5em;
+  }
+
+
+  nav ul {
+    margin: 0 auto;
+    border-left: solid 1px rgba(255, 255, 255, 0.3);
+    width: 60%;
+  }
+
+  /*main menu items float side by side*/
+  nav ul li {
+    float: left;
+    text-align: center;
+    width: 24%;
+  }
+
+  nav ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    border-right: solid 1px rgba(255, 255, 255, 0.3);
+    padding: .7em .9em;
+
+
+    /*transition*/
+    transition: background 0.3s linear;
+  }
+
+  nav ul li a:hover {
+    background-color: rgba(0, 0, 0, 0.1)
+  }
+
+  nav ul li.selected a {
+    background-color: rgba(0, 0, 0, 0.3)
+  }
+
+
+  .hero {
+    background-image: url("../images/kidsStockMedium.jpg");
+    background-position: center center;
+    height: 25rem /* 400px */
+  }
+
+  header h2 {
+    display: block; /* making it visible from phone view */
+
+  }
+
+  /* Responsive Column Grid*/
+  /*----- 12 COLUMN LAYOUT -----*/
+  .col-3, .col-4, .col-6, .col-9, .col-10, .col-12 {
+    float: left;
+  }
+
+  .col-3 {
+    width: 45%; /*fix for 4 to 2 to one column transition*/
+    min-height: 200px;
+  }
+
+  .col-4 {
+    width: 33.3333%;
+  }
+
+  .col-6 {
+    width: 50%;
+  }
+
+  .col-9 {
+    width: 75%;
+  }
+
+  .col-10 {
+    width: 83%;
+  }
+
+  aside.col-3.last {
+    padding-left: 2rem;
+  }
+
+  figure {
+    max-width: 98%;
+  }
+}

@@ -1,0 +1,37 @@
+1.	select * from Spokane2017
+
+2.	select Month, Day, RecHi from Spokane2017
+
+3.	select Month, Day, AvgHi "AverageHigh" from Spokane2017
+
+4.	Select Month, Day, RecLo from Spokane2017 
+	where RecLo < 32 
+
+5. 	select month, day, RecLo from Spokane2017
+	where Month='1' and RecLo < 32
+
+6.	select month, day, RecLo from Spokane2017
+	where Month='1' and RecLo < 32
+	order by RecLo
+
+7. 	select top 10 RecLo from Spokane2017
+	***NOTE*** I had no idea how to do this. 
+	
+
+8.	select month, day, sunrise, sunset from Spokane2017
+	order by month desc, day desc
+
+
+9. 	select nameLast,nameFirst, nameLast + ',' + nameFirst FullName From Players
+	where weight > 200	
+
+10. 	select nameLast,nameFirst, nameLast + ',' + nameFirst FullName, (height/12.0) Height from Players
+	where weight > 200
+
+
+11.	select nameLast,nameFirst, birthState from Players
+	where birthState='WA'
+	****NOTE**** the answer was birthcity but then you said Washington State so I did birthState instead. Hopefully I am correct on this. 
+
+12.	select nameLast,nameFirst, birthState, birthCity from Players
+	where birthState='WA'and birthCity='Spokane'		

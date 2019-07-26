@@ -1,0 +1,15 @@
+/*DESKTOP MEDIA QUERY*/
+@media only screen and (min-width: 1140px){
+html{font-size: 18px;}
+  h1{color:blue;}
+
+
+  .hero {
+    background-image: url("../images/kidsStockLarge.jpg");
+    height: 31.25rem; /*500px*/
+  }
+  .col-3{
+    width: 24%;
+  }
+
+}

@@ -1,0 +1,74 @@
+body, h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Oxygen', sans-serif;
+  color: black;
+  position: relative
+}
+
+.jumbotron {
+  background-image: url("/images/blur-bottle-bright-273238.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+
+
+}
+
+section {
+  padding: 2.5rem;
+}
+
+.bg-primary {
+  background: #DBDBDB !important;
+}
+
+/*formula for responsive text*/
+
+@media screen {
+  html {
+    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  h1.display-4 {
+    font-size: 2rem;
+  }
+}
+
+
+@media (max-width: 575.98px) {
+  h1.display-4 {
+    font-size: 2rem;
+  }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+  h1.display-4 {
+    font-size: 2.5rem;
+  }
+
+  .carousel-item {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+}
+
+
+
+
+/*!* Medium devices (tablets, 768px and up) *!*/
+/*@media (min-width: 768px) and (max-width: 991.98px) { ... }*/
+
+/*!* Large devices (desktops, 992px and up) *!*/
+/*@media (min-width: 992px) and (max-width: 1199.98px) { ... }*/
+
+/*!* Extra large devices (large desktops, 1200px and up) *!*/
+/*@media (min-width: 1200px) { ... }*/

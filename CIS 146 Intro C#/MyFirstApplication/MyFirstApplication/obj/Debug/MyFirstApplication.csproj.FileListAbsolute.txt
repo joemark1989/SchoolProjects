@@ -1,0 +1,10 @@
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.Form1.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.Properties.Resources.resources
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\Users\joseph\Desktop\SCHOOL\CIS 146\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
