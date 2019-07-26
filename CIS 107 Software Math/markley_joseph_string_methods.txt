@@ -1,0 +1,52 @@
+            // declare my strings
+
+            string callOut = "For those about to ROCK!";
+            string response = " We salute you!";
+
+            //write out my strings
+
+            Console.WriteLine(callOut + response);
+
+            //concat my string
+
+            Console.WriteLine(string.Concat(callOut, response));
+
+            //What does my string contain?(true or false)
+
+            Console.WriteLine(callOut.Contains("ROCK"));
+
+            //What does my string contain?(true or false)
+
+            Console.WriteLine(callOut.Contains("rock"));
+
+            //true or false making it uppercase
+
+            Console.WriteLine(callOut.Contains("rock".ToUpper()));
+
+            //true or false making it lowercase
+
+            Console.WriteLine(callOut+ response.ToLower());
+
+            //Tells us the index of o
+
+            Console.WriteLine(callOut.IndexOf('o'));
+
+            // tells us the last index of o
+
+            Console.WriteLine(callOut.LastIndexOf('o'));
+
+            // remove chars from string
+
+            Console.WriteLine(callOut.Remove(4, 5));
+
+            // replace chars in string
+
+            Console.WriteLine(callOut.Replace('o', '$'));
+
+            // equals (bool) compares strings to see if it's true or false.
+            
+            Console.WriteLine(callOut.Equals(response));
+
+            // substring to see what is in that position and return it.
+            
+            Console.WriteLine(callOut.Substring(2,1));
