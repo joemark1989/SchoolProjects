@@ -1,0 +1,3 @@
+Foo Bar, 32, blue, gray
+Foo Smith, 42, green, black
+Tom Bar, 21, brown, blonde

@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c89e24fc-e98a-41ee-9ac1-d8f3de5db9c9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day28_lastdoublearrays.rcov" NAME="day28_lastdoublearrays Coverage Results" MODIFIED="1551918489635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@midterm_debug_quiz.rcov" NAME="midterm_debug_quiz Coverage Results" MODIFIED="1549587904881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day23_fileandhashes.rcov" NAME="day23_fileandhashes Coverage Results" MODIFIED="1551224998435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@header.rcov" NAME="header Coverage Results" MODIFIED="1548834029034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@histrogram_markley.rcov" NAME="histrogram_markley Coverage Results" MODIFIED="1550083305004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@triangle_markley.rcov" NAME="triangle_markley Coverage Results" MODIFIED="1549148765682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@abs.rcov" NAME="abs Coverage Results" MODIFIED="1550974675928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@example_histogram.rcov" NAME="example_histogram Coverage Results" MODIFIED="1550211645864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day11_beginningarrays.rcov" NAME="day11_beginningarrays Coverage Results" MODIFIED="1550181722704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day26_doublearrays.rcov" NAME="day26_doublearrays Coverage Results" MODIFIED="1552326044693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@payroll_markley.coverage" NAME="payroll_markley Coverage Results" MODIFIED="1548350354952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day16_morehashes.rcov" NAME="day16_morehashes Coverage Results" MODIFIED="1551388988725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@connectfour_markley__1_.rcov" NAME="connectfour_markley (1) Coverage Results" MODIFIED="1553494663463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@payroll_markley.rcov" NAME="payroll_markley Coverage Results" MODIFIED="1548802410597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day7_loopsintro.rcov" NAME="day7_loopsintro Coverage Results" MODIFIED="1552008509624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day19_menu_as_a_method.rcov" NAME="day19_menu_as_a_method Coverage Results" MODIFIED="1551249325011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@regex_test.rcov" NAME="regex_test Coverage Results" MODIFIED="1554589830572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day4_Inputoutput.rcov" NAME="day4_Inputoutput Coverage Results" MODIFIED="1547693814930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day3_rubybasics.coverage" NAME="day3_rubybasics Coverage Results" MODIFIED="1548350379755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@acronym_markley.rcov" NAME="acronym_markley Coverage Results" MODIFIED="1553025143511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day20_beginning_fileio.rcov" NAME="day20_beginning_fileio Coverage Results" MODIFIED="1550962028376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day17_hashesAndMethods.rcov" NAME="day17_hashesAndMethods Coverage Results" MODIFIED="1551321334820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@practice.rcov" NAME="practice Coverage Results" MODIFIED="1553495217567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day25_writingtofiles.rcov" NAME="day25_writingtofiles Coverage Results" MODIFIED="1551234582613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@coins_markley.rcov" NAME="coins_markley Coverage Results" MODIFIED="1552006417069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@header_comments_markley.coverage" NAME="header_comments_markley Coverage Results" MODIFIED="1548350709470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@reverse_markley.rcov" NAME="reverse_markley Coverage Results" MODIFIED="1553027229577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day9_evenmoreloops.coverage" NAME="day9_evenmoreloops Coverage Results" MODIFIED="1548350511190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@sldgnmsnm.rcov" NAME="sldgnmsnm Coverage Results" MODIFIED="1549572586545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@connectfour_markley.rcov" NAME="connectfour_markley Coverage Results" MODIFIED="1552110964162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day19_methodsreturningvalues.rcov" NAME="day19_methodsreturningvalues Coverage Results" MODIFIED="1550016600563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day24_filesandhashes.rcov" NAME="day24_filesandhashes Coverage Results" MODIFIED="1551226166175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@histogram_markley.rcov" NAME="histogram_markley Coverage Results" MODIFIED="1551907433198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@connectfour_cvc_markley.rcov" NAME="connectfour_cvc_markley Coverage Results" MODIFIED="1552973975110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@header_comments_markley.rcov" NAME="header_comments_markley Coverage Results" MODIFIED="1550961595588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@rps_markley.rcov" NAME="rps_markley Coverage Results" MODIFIED="1549852829886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day27_moredoublearrays.rcov" NAME="day27_moredoublearrays Coverage Results" MODIFIED="1553147833758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day15_introhashes.rcov" NAME="day15_introhashes Coverage Results" MODIFIED="1551396551076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day6_booleancont.rcov" NAME="day6_booleancont Coverage Results" MODIFIED="1552008443790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day14_lastarrays.rcov" NAME="day14_lastarrays Coverage Results" MODIFIED="1549575408594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day8_moreloops.rcov" NAME="day8_moreloops Coverage Results" MODIFIED="1549055013998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day13_evenmorearrays.rcov" NAME="day13_evenmorearrays Coverage Results" MODIFIED="1551414137508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@hash_markley.rcov" NAME="hash_markley Coverage Results" MODIFIED="1552013040126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day_15_introhashes.rcov" NAME="day_15_introhashes Coverage Results" MODIFIED="1549682449216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day3_rubybasics.rcov" NAME="day3_rubybasics Coverage Results" MODIFIED="1547679432229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day21_countinuingfiles.rcov" NAME="day21_countinuingfiles Coverage Results" MODIFIED="1552009165468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day9_evenmoreloops.rcov" NAME="day9_evenmoreloops Coverage Results" MODIFIED="1552008605175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day5_booleanlogic.rcov" NAME="day5_booleanlogic Coverage Results" MODIFIED="1547573384542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day19_stringformatting.rcov" NAME="day19_stringformatting Coverage Results" MODIFIED="1551341712180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day12_morearrays.rcov" NAME="day12_morearrays Coverage Results" MODIFIED="1550170645001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day10_nestedloops.rcov" NAME="day10_nestedloops Coverage Results" MODIFIED="1552326179994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LecturesWinter19" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day25_writingtofiles.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="8" selection-start-line="5" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>each</find>
+      <find>length</find>
+      <find>row</find>
+      <find>find</find>
+      <find>fin_all</find>
+      <find>split</find>
+      <find>fetch</find>
+      <find>begin</find>
+      <find>update</find>
+      <find>chr</find>
+      <find>total</find>
+      <find>p total</find>
+      <find>token ==</find>
+      <find>4</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\SCHOOL\CIS 282\LecturesWinter19</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day4_Inputoutput.rb" />
+        <option value="$PROJECT_DIR$/day10_nestedloops.rb" />
+        <option value="$PROJECT_DIR$/payroll_markley.rb" />
+        <option value="$PROJECT_DIR$/triangle_markley.rb" />
+        <option value="$PROJECT_DIR$/day14_lastarrays.rb" />
+        <option value="$PROJECT_DIR$/day_15_introhashes.rb" />
+        <option value="$PROJECT_DIR$/rps_markley.rb" />
+        <option value="$PROJECT_DIR$/sldgnmsnm.rb" />
+        <option value="$PROJECT_DIR$/midterm_debug_quiz2.rb" />
+        <option value="$PROJECT_DIR$/midterm_debug_quiz.rb" />
+        <option value="$PROJECT_DIR$/day19_methodsreturningvalues.rb" />
+        <option value="$PROJECT_DIR$/day19_menu_as_a_method.rb" />
+        <option value="$PROJECT_DIR$/histrogram_markley.rb" />
+        <option value="$PROJECT_DIR$/day11_beginningarrays.rb" />
+        <option value="$PROJECT_DIR$/day9_evenmoreloops.rb" />
+        <option value="$PROJECT_DIR$/day13_evenmorearrays.rb" />
+        <option value="$PROJECT_DIR$/day7_loopsintro.rb" />
+        <option value="$PROJECT_DIR$/day8_moreloops.rb" />
+        <option value="$PROJECT_DIR$/day12_morearrays.rb" />
+        <option value="$PROJECT_DIR$/example_histogram.rb" />
+        <option value="$PROJECT_DIR$/day20_beginning_fileio.rb" />
+        <option value="$PROJECT_DIR$/abs.rb" />
+        <option value="$PROJECT_DIR$/day24_filesandhashes.rb" />
+        <option value="$PROJECT_DIR$/day19_stringformatting.rb" />
+        <option value="$PROJECT_DIR$/productsBKU.txt" />
+        <option value="$PROJECT_DIR$/day21_countinuingfiles.rb" />
+        <option value="$PROJECT_DIR$/day23_fileandhashes.rb" />
+        <option value="$PROJECT_DIR$/day17_hashesAndMethods.rb" />
+        <option value="$PROJECT_DIR$/day16_morehashes.rb" />
+        <option value="$PROJECT_DIR$/database.txt" />
+        <option value="$PROJECT_DIR$/products.txt" />
+        <option value="$PROJECT_DIR$/day15_introhashes.rb" />
+        <option value="$PROJECT_DIR$/histogram_markley.rb" />
+        <option value="$PROJECT_DIR$/day26_doublearrays.rb" />
+        <option value="$PROJECT_DIR$/day27_moredoublearrays.rb" />
+        <option value="$PROJECT_DIR$/day28_lastdoublearrays.rb" />
+        <option value="$PROJECT_DIR$/hash_markley.rb" />
+        <option value="$PROJECT_DIR$/../connectfour_markley.rb" />
+        <option value="$PROJECT_DIR$/coins_markley.rb" />
+        <option value="$PROJECT_DIR$/header_comments_markley.rb" />
+        <option value="$PROJECT_DIR$/notes_file.rb" />
+        <option value="$PROJECT_DIR$/connectfour_pvp_markley.rb" />
+        <option value="$PROJECT_DIR$/acronym_markley.rb" />
+        <option value="$PROJECT_DIR$/reverse_markley.rb" />
+        <option value="$PROJECT_DIR$/reviews.rb" />
+        <option value="$PROJECT_DIR$/connectfour_markley.rb" />
+        <option value="$PROJECT_DIR$/practice.rb" />
+        <option value="$PROJECT_DIR$/connectfour_cvc_markley.rb" />
+        <option value="$PROJECT_DIR$/regex_test.rb" />
+        <option value="$PROJECT_DIR$/day25_writingtofiles.rb" />
+        <option value="$PROJECT_DIR$/../../../../jukebox_project/jukebox_project/main1.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="LecturesWinter19" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\joseph\Desktop\SCHOOL\old school\CIS 282 Intro Ruby\LecturesWinter19" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CIS 283 Ruby 2/Projects/jukebox_project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SCHOOL\CIS 282\LecturesWinter19" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joseph\Desktop\LecturesWinter19" />
+      <recent name="D:\SCHOOL\CIS 282\LecturesWinter19" />
+      <recent name="D:\SCHOOL\CIS 282\LecturesWinter19\FinalProject" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.main1">
+    <configuration name="day25_writingtofiles" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LecturesWinter19" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/day25_writingtofiles.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_histogram" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LecturesWinter19" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/example_histogram.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hash_markley" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LecturesWinter19" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/hash_markley.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/../../../../jukebox_project/jukebox_project" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../../../jukebox_project/jukebox_project/main1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regex_test" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LecturesWinter19" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/regex_test.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.regex_test" />
+      <item itemvalue="Ruby.day25_writingtofiles" />
+      <item itemvalue="Ruby.example_histogram" />
+      <item itemvalue="Ruby.hash_markley" />
+      <item itemvalue="Ruby.main1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.main1" />
+        <item itemvalue="Ruby.hash_markley" />
+        <item itemvalue="Ruby.example_histogram" />
+        <item itemvalue="Ruby.day25_writingtofiles" />
+        <item itemvalue="Ruby.regex_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c89e24fc-e98a-41ee-9ac1-d8f3de5db9c9" name="Default Changelist" comment="" />
+      <created>1546980256173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546980256173</updated>
+      <workItem from="1546980257320" duration="5427000" />
+      <workItem from="1547057564626" duration="1000" />
+      <workItem from="1547570305148" duration="2896000" />
+      <workItem from="1547580013170" duration="3097000" />
+      <workItem from="1547600346433" duration="5193000" />
+      <workItem from="1547671334022" duration="979000" />
+      <workItem from="1547675106594" duration="18281000" />
+      <workItem from="1547696336216" duration="60000" />
+      <workItem from="1547698421927" duration="1859000" />
+      <workItem from="1547842312900" duration="170000" />
+      <workItem from="1547842510420" duration="794000" />
+      <workItem from="1547843320930" duration="11533000" />
+      <workItem from="1547937633820" duration="9238000" />
+      <workItem from="1548087355999" duration="9000" />
+      <workItem from="1548276426361" duration="6373000" />
+      <workItem from="1548348383245" duration="1267000" />
+      <workItem from="1548349950411" duration="206000" />
+      <workItem from="1548350169287" duration="545000" />
+      <workItem from="1548351287228" duration="10621000" />
+      <workItem from="1548365730169" duration="8459000" />
+      <workItem from="1548395953786" duration="6000" />
+      <workItem from="1548399725437" duration="1669000" />
+      <workItem from="1548446604872" duration="20866000" />
+      <workItem from="1548488387461" duration="74000" />
+      <workItem from="1548792102032" duration="5955000" />
+      <workItem from="1548833627488" duration="1055000" />
+      <workItem from="1549054984486" duration="6164000" />
+      <workItem from="1549143287925" duration="11539000" />
+      <workItem from="1549230174327" duration="4439000" />
+      <workItem from="1549265852651" duration="77000" />
+      <workItem from="1549297144932" duration="26126000" />
+      <workItem from="1549508904529" duration="751000" />
+      <workItem from="1549572501490" duration="6184000" />
+      <workItem from="1549581652201" duration="6894000" />
+      <workItem from="1549590770687" duration="15000" />
+      <workItem from="1549663706952" duration="10084000" />
+      <workItem from="1549852591063" duration="150000" />
+      <workItem from="1549852770800" duration="1511000" />
+      <workItem from="1549858547218" duration="1134000" />
+      <workItem from="1549905236735" duration="1372000" />
+      <workItem from="1550004873498" duration="76000" />
+      <workItem from="1550004976451" duration="601000" />
+      <workItem from="1550010821358" duration="12384000" />
+      <workItem from="1550081745907" duration="2877000" />
+      <workItem from="1550084636804" duration="4269000" />
+      <workItem from="1550089349750" duration="20038000" />
+      <workItem from="1550161654813" duration="44480000" />
+      <workItem from="1550249093627" duration="1323000" />
+      <workItem from="1550401555179" duration="39000" />
+      <workItem from="1550539441443" duration="11000" />
+      <workItem from="1550689957852" duration="627000" />
+      <workItem from="1550961464800" duration="9980000" />
+      <workItem from="1551054529657" duration="6088000" />
+      <workItem from="1551133624675" duration="11832000" />
+      <workItem from="1551154106942" duration="12226000" />
+      <workItem from="1551198454604" duration="22606000" />
+      <workItem from="1551233662428" duration="11726000" />
+      <workItem from="1551247503606" duration="5197000" />
+      <workItem from="1551254461712" duration="1977000" />
+      <workItem from="1551284934364" duration="43236000" />
+      <workItem from="1551370898389" duration="44659000" />
+      <workItem from="1551495585271" duration="785000" />
+      <workItem from="1551906637631" duration="311000" />
+      <workItem from="1551907308467" duration="8254000" />
+      <workItem from="1551916756395" duration="1541000" />
+      <workItem from="1551918454978" duration="51000" />
+      <workItem from="1551957543426" duration="3130000" />
+      <workItem from="1551997565726" duration="3126000" />
+      <workItem from="1552002018551" duration="2047000" />
+      <workItem from="1552007755460" duration="6543000" />
+      <workItem from="1552040114227" duration="5000" />
+      <workItem from="1552040231154" duration="101000" />
+      <workItem from="1552048651321" duration="13000" />
+      <workItem from="1552048682736" duration="663000" />
+      <workItem from="1552068311389" duration="1347000" />
+      <workItem from="1552110720158" duration="1888000" />
+      <workItem from="1552319889510" duration="4479000" />
+      <workItem from="1552325753248" duration="1728000" />
+      <workItem from="1552331457409" duration="102000" />
+      <workItem from="1552331716341" duration="89000" />
+      <workItem from="1552331858379" duration="30000" />
+      <workItem from="1552332253594" duration="2033000" />
+      <workItem from="1552356210748" duration="10717000" />
+      <workItem from="1552402987447" duration="19429000" />
+      <workItem from="1552461995444" duration="357000" />
+      <workItem from="1552490076081" duration="27086000" />
+      <workItem from="1552587033817" duration="1414000" />
+      <workItem from="1552622565657" duration="999000" />
+      <workItem from="1552672204541" duration="2658000" />
+      <workItem from="1552682250933" duration="20000" />
+      <workItem from="1552691841299" duration="33000" />
+      <workItem from="1552692049510" duration="118000" />
+      <workItem from="1552868074109" duration="2342000" />
+      <workItem from="1552870477153" duration="9719000" />
+      <workItem from="1552895698228" duration="974000" />
+      <workItem from="1552944789308" duration="6114000" />
+      <workItem from="1552955206046" duration="283000" />
+      <workItem from="1552965644626" duration="7394000" />
+      <workItem from="1552973183889" duration="2105000" />
+      <workItem from="1552981684781" duration="425000" />
+      <workItem from="1553022151267" duration="3764000" />
+      <workItem from="1553026394271" duration="5734000" />
+      <workItem from="1553057540703" duration="6067000" />
+      <workItem from="1553116148881" duration="18093000" />
+      <workItem from="1553153100324" duration="374000" />
+      <workItem from="1553424950701" duration="63000" />
+      <workItem from="1553493765467" duration="1462000" />
+      <workItem from="1553543826453" duration="933000" />
+      <workItem from="1553544775521" duration="2000" />
+      <workItem from="1554589408243" duration="1423000" />
+      <workItem from="1555319640393" duration="983000" />
+      <workItem from="1555327881740" duration="59000" />
+      <workItem from="1555327961376" duration="90000" />
+      <workItem from="1557192802836" duration="854000" />
+      <workItem from="1557208080033" duration="6000" />
+      <workItem from="1557208108849" duration="21000" />
+      <workItem from="1557302851318" duration="460000" />
+      <workItem from="1557303528969" duration="1385000" />
+      <workItem from="1557371444459" duration="2221000" />
+      <workItem from="1557379378458" duration="1541000" />
+      <workItem from="1557382113550" duration="23000" />
+      <workItem from="1557382963961" duration="1677000" />
+      <workItem from="1557385041398" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="627041000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26826668" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988507" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.25747126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32988507" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50373137" side_tool="true" weight="0.3321839" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LecturesWinter19@day25_writingtofiles.rcov" NAME="day25_writingtofiles Coverage Results" MODIFIED="1557192829464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@example_histogram.rcov" NAME="example_histogram Coverage Results" MODIFIED="1557192862233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@main1.rcov" NAME="main1 Coverage Results" MODIFIED="1557381068539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../jukebox_project/jukebox_project" MODULE_NAME="LecturesWinter19" />
+    <SUITE FILE_PATH="coverage/LecturesWinter19@hash_markley.rcov" NAME="hash_markley Coverage Results" MODIFIED="1557192977016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LecturesWinter19" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Products.txt.txt" />
+    <entry file="file://$PROJECT_DIR$/day23_fileandhashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databaseBKU.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsBKU.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17_hashesAndMethods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day24_filesandhashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="65" selection-start-line="65" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test.rb" />
+    <entry file="file://$PROJECT_DIR$/payroll_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day21_countinuingfiles.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="38" selection-start-line="38" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/histogram_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day28_lastdoublearrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/connectfour_markley.rb" />
+    <entry file="file://$PROJECT_DIR$/day5_booleanlogic.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6_booleancont.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2162">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8_moreloops.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_rubybasics.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4_Inputoutput.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15_introhashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2369">
+          <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day16_morehashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14_lastarrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13_evenmorearrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="122" column="17" lean-forward="true" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12_morearrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coins_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../CIS 283 Ruby 2/Projects/header_comments_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connectfour_pvp_markley.rb" />
+    <entry file="file://$PROJECT_DIR$/acronym_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26_doublearrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1146">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes_file.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2753">
+          <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day27_moredoublearrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="131" column="27" lean-forward="true" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connectfour_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviews.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5773">
+          <caret line="251" column="38" selection-start-line="251" selection-start-column="38" selection-end-line="251" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connectfour_cvc_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="143" column="11" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_evenmoreloops.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10_nestedloops.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_beginningarrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day19_methodsreturningvalues.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day19_stringformatting.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1909">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20_beginning_fileio.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rps_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="82" column="38" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day19_menu_as_a_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7_loopsintro.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="154" column="15" lean-forward="true" selection-start-line="154" selection-start-column="15" selection-end-line="154" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_markley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="41" selection-start-line="41" selection-end-line="57" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_histogram.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../jukebox_project/jukebox_project/main1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../jukebox_project/jukebox_project/jukebox1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day25_writingtofiles.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="8" selection-start-line="5" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
