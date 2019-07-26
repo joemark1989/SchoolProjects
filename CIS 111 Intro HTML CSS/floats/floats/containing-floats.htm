@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>containing floats</title>
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<style>
+		
+			html{
+			background-color: yellow;
+		
+			}
+			body {
+				
+				background: #fff;			
+				border: 5px solid red;
+				margin-top:40px;
+			}	
+			
+			div {
+				width: 50px;
+				height: 50px;
+				padding: 50px;
+			}
+			section {
+				background: #c8c59c;			
+				padding: 10px;
+				margin: 0 auto;
+				width: 80%;
+			/*	overflow: auto;*/
+				
+			}
+			.one {
+				background: #7b8af9;
+				float: left;
+				
+			}
+			.two {
+				background: #55423d;
+				float: left;
+				
+			}
+			.three {
+				background: #ba2f5d;
+				/*float:left;*/
+			/*	box-shadow: 5px 20px 10px #000;*/
+			}
+			
+			/*.clear{clear:both;}*/
+			
+			/*section::after {
+			content: "";
+			clear: both;
+			display: block;
+			}*/
+			
+			footer{
+				background-color: green;padding: 10px;
+				margin: 0 auto;
+				width: 80%;
+					
+			}
+					
+		</style>
+	</head>
+
+	<body>	
+		<section>
+			<div class="one">One</div>
+			<div class="two ">Two</div>
+			<div class="three">Three</div>					
+		</section>			
+		<footer > This is the footer </footer>		
+	</body>
+</html>
+
+<!--
+
+1. element underneath floated element  using clear property - normal document flow will be restored  
+	https://developer.mozilla.org/en-US/docs/Web/CSS/clear
+	
+
+2. use overflow property of the parent container   overflow: hidden
+	 hidden, auto, or scroll
+	 works 90% of the time
+	 (put box shawdow on box three)
+	 https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+	 http://www.w3schools.com/cssref/pr_pos_overflow.asp
+	 
+
+   
+4.  Clearfix method...google it.. separate demo
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats#The_clearfix_hack
+
+-->

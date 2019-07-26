@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clearing Floats</title>
+   
+	<style>
+	#container, .notes{
+    width: 1000px;
+    margin:0 auto;
+    padding:20px;
+    border:2px solid red;
+    background: rgba(212,228,239,.7);
+    background: linear-gradient(to bottom right, rgb(212,228,239), rgb(255,255,255));
+}
+
+.box{
+    width:49%;
+    height:100px;
+    font-size: 30px;
+    text-align:center;
+    padding-top:50px;
+   margin-right:25px;
+
+}
+
+.one{
+  background: #D39CC2;
+   float:left;
+
+}
+.two{
+    background: #E9A546;
+    float:left;
+
+}
+
+.three{
+    background: #3682E9;
+    float:left;
+    clear:left;
+
+}
+
+.four{
+    background: #2DE934;
+    float:right;
+
+}
+.five {
+    background: #E9227A;
+    float:left;
+    clear:left;
+}
+.six{
+    background: #a918e9;
+    float:right;
+}
+
+.notes, p{
+    clear:both;
+}
+
+.separator{
+    height:50px;
+    background:red;
+}
+	</style>
+</head>
+<body>
+<div class="notes">
+    <div class="box one">1</div>
+    <div class="box two">2</div>
+ <div class="box three">3</div>
+   <div class="box four">4</div>
+        <div class="box five">5</div>
+        <div class="box six">6</div> 
+    <p>&nbsp;</p>
+
+</div>
+<div class="separator"></div>
+<div class="notes">
+    <h5>ABOUT FLOATS</h5>
+
+    <h6>Become comfortable with:</h6>
+    <ul>
+        <li>how floated elements affect their parent elements</li>
+        <li>how clearing works</li>
+        <li>how margins work with floated elements</li>
+        <li>how the width of parent elements can impact the behavior of floated elements</li>
+    </ul>
+    <p>To master floats you will then need to explore the best practices that have evolved over the years regarding using floats for layout. </p>
+
+</div>
+</body>
+</html>

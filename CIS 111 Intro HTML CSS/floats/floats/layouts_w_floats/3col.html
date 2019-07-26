@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3 Col Layout</title>
+    <meta charset="utf-8">
+      <style>
+        	html, body {
+				margin: 0;
+				padding: 0;
+				background: #eee;				
+			}
+           
+          .row::after {
+				content: "";
+				clear: both;
+				display: block;
+			}	
+			.wrapper{			
+				width: 1000px;
+				margin: 0 auto;
+				background: #fff;
+            }
+         /* .one, .two, .three{
+            min-height: 500px;
+            width: 33.33%;
+            margin:1%;
+            float:left;
+            }*/
+
+            .one{ background-color:aqua;}
+            .two{background-color: lawngreen;}
+            .three{background-color:indianred; }            
+           
+           footer{
+               min-height:200px;
+           }
+
+
+          /* using pixels & margin*/
+           
+       /* .one, .two, .three{
+            min-height: 500px;
+              width: 333.33px;
+            float:left;
+            margin:0 5px 0 5px;            }
+     */
+         
+    </style>
+
+
+</head>
+<body>
+<div class="wrapper">
+    <main >
+        <div class="row">
+            <article class="one">
+                Article 1
+            </article>
+            <article class="two">
+                Article 2
+            </article>
+            <aside class="three">
+                Aside
+            </aside>
+        </div>
+    </main>
+
+    <footer>Footer</footer>
+</div>
+
+</body>
+</html>
+
+
+
