@@ -1,0 +1,10 @@
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\bin\Debug\ZipLookup.exe.config
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\bin\Debug\ZipLookup.exe
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\bin\Debug\ZipLookup.pdb
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\obj\Debug\ZipLookup.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\obj\Debug\ZipLookup.Form1.resources
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\obj\Debug\ZipLookup.Properties.Resources.resources
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\obj\Debug\ZipLookup.csproj.GenerateResource.cache
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\obj\Debug\ZipLookup.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\obj\Debug\ZipLookup.exe
+C:\Users\joseph\source\repos\ZipLookup\ZipLookup\obj\Debug\ZipLookup.pdb

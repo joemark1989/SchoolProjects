@@ -1,0 +1,8 @@
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\obj\Debug\ResolveAssemblyReference.cache
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\obj\Debug\ConnectionObject.Form1.resources
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\obj\Debug\ConnectionObject.Properties.Resources.resources
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\obj\Debug\ConnectionObject.csproj.GenerateResource.Cache
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\bin\Debug\ConnectionObject.exe
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\bin\Debug\ConnectionObject.pdb
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\obj\Debug\ConnectionObject.exe
+C:\CIS258\ADo\ConnectionObject\ConnectionObject\obj\Debug\ConnectionObject.pdb

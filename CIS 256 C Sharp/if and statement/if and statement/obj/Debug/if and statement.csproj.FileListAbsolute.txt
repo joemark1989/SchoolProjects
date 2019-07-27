@@ -1,0 +1,7 @@
+C:\Users\joseph\source\repos\if and statement\if and statement\bin\Debug\if and statement.exe.config
+C:\Users\joseph\source\repos\if and statement\if and statement\bin\Debug\if and statement.exe
+C:\Users\joseph\source\repos\if and statement\if and statement\bin\Debug\if and statement.pdb
+C:\Users\joseph\source\repos\if and statement\if and statement\obj\Debug\if and statement.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\if and statement\if and statement\obj\Debug\if and statement.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\if and statement\if and statement\obj\Debug\if and statement.exe
+C:\Users\joseph\source\repos\if and statement\if and statement\obj\Debug\if and statement.pdb

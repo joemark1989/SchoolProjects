@@ -1,0 +1,10 @@
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe.config
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\bin\Debug\SalaryManager.exe
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\bin\Debug\SalaryManager.pdb
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Form1.resources
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\obj\Debug\SalaryManager.Properties.Resources.resources
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csproj.GenerateResource.cache
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\obj\Debug\SalaryManager.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\obj\Debug\SalaryManager.exe
+C:\Users\joseph\source\repos\SalaryManager\SalaryManager\obj\Debug\SalaryManager.pdb

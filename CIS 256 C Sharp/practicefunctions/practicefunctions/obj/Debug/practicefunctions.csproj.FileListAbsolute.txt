@@ -1,0 +1,7 @@
+C:\Users\joseph\source\repos\practicefunctions\practicefunctions\bin\Debug\practicefunctions.exe.config
+C:\Users\joseph\source\repos\practicefunctions\practicefunctions\bin\Debug\practicefunctions.exe
+C:\Users\joseph\source\repos\practicefunctions\practicefunctions\bin\Debug\practicefunctions.pdb
+C:\Users\joseph\source\repos\practicefunctions\practicefunctions\obj\Debug\practicefunctions.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\practicefunctions\practicefunctions\obj\Debug\practicefunctions.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\practicefunctions\practicefunctions\obj\Debug\practicefunctions.exe
+C:\Users\joseph\source\repos\practicefunctions\practicefunctions\obj\Debug\practicefunctions.pdb

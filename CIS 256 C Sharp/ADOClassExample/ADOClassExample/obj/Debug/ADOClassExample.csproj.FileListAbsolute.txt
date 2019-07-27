@@ -1,0 +1,10 @@
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\bin\Debug\ADOClassExample.exe.config
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\bin\Debug\ADOClassExample.exe
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\bin\Debug\ADOClassExample.pdb
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\obj\Debug\ADOClassExample.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\obj\Debug\ADOClassExample.Form1.resources
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\obj\Debug\ADOClassExample.Properties.Resources.resources
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\obj\Debug\ADOClassExample.csproj.GenerateResource.cache
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\obj\Debug\ADOClassExample.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\obj\Debug\ADOClassExample.exe
+C:\Users\joseph\source\repos\ADOClassExample\ADOClassExample\obj\Debug\ADOClassExample.pdb

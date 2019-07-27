@@ -1,0 +1,10 @@
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\bin\Debug\Markley_VBAutoProject.exe.config
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\bin\Debug\Markley_VBAutoProject.exe
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\bin\Debug\Markley_VBAutoProject.pdb
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\obj\Debug\Markley_VBAutoProject.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\obj\Debug\Markley_VBAutoProject.Properties.Resources.resources
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\obj\Debug\Markley_VBAutoProject.csproj.GenerateResource.cache
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\obj\Debug\Markley_VBAutoProject.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\obj\Debug\Markley_VBAutoProject.exe
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\obj\Debug\Markley_VBAutoProject.pdb
+C:\Users\joseph\source\repos\Markley_VBAutoProject\Markley_VBAutoProject\obj\Debug\Markley_VBAutoProject.frmValleyBoulevard.resources

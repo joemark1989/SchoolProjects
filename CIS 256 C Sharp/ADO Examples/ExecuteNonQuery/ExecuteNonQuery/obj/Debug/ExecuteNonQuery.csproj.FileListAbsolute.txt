@@ -1,0 +1,16 @@
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\bin\Debug\ExecuteNonQuery.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\bin\Debug\ExecuteNonQuery.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ResolveAssemblyReference.cache
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.frmCommand.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.Properties.Resources.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ResGen.read.1.tlog
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ResGen.write.1.tlog
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteNonQuery\ExecuteNonQuery\bin\Debug\ExecuteNonQuery.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteNonQuery\ExecuteNonQuery\bin\Debug\ExecuteNonQuery.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.frmCommand.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.Properties.Resources.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\CIS258\ADo\ExecuteReader\CommandObject\bin\Debug\CommandObject.exe
+C:\CIS258\ADo\ExecuteReader\CommandObject\bin\Debug\CommandObject.pdb
+C:\CIS258\ADo\ExecuteReader\CommandObject\obj\Debug\ResolveAssemblyReference.cache
+C:\CIS258\ADo\ExecuteReader\CommandObject\obj\Debug\CommandObject.frmCommand.resources
+C:\CIS258\ADo\ExecuteReader\CommandObject\obj\Debug\CommandObject.Properties.Resources.resources
+C:\CIS258\ADo\ExecuteReader\CommandObject\obj\Debug\ExecuteReader.csproj.GenerateResource.Cache
+C:\CIS258\ADo\ExecuteReader\CommandObject\obj\Debug\CommandObject.exe
+C:\CIS258\ADo\ExecuteReader\CommandObject\obj\Debug\CommandObject.pdb

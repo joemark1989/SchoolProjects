@@ -1,0 +1,8 @@
+obj\Debug\CommandObject.exe
+obj\Debug\CommandObject.pdb
+bin\Debug\CommandObject.exe
+bin\Debug\CommandObject.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CommandObject.frmCommand.resources
+obj\Debug\CommandObject.Properties.Resources.resources
+obj\Debug\ExecuteReader.csproj.GenerateResource.Cache

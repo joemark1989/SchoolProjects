@@ -1,0 +1,8 @@
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\bin\Debug\ExecuteNonQuery.exe
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\bin\Debug\ExecuteNonQuery.pdb
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ResolveAssemblyReference.cache
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.frmCommand.resources
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.Properties.Resources.resources
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.csproj.GenerateResource.Cache
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.exe
+c:\ADO\ExecuteNonQuery\ExecuteNonQuery\obj\Debug\ExecuteNonQuery.pdb

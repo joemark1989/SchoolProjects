@@ -1,0 +1,8 @@
+C:\CIS258\ADo\CommandObject\CommandObject\bin\Debug\CommandObject.exe
+C:\CIS258\ADo\CommandObject\CommandObject\bin\Debug\CommandObject.pdb
+C:\CIS258\ADo\CommandObject\CommandObject\obj\Debug\ResolveAssemblyReference.cache
+C:\CIS258\ADo\CommandObject\CommandObject\obj\Debug\CommandObject.frmCommand.resources
+C:\CIS258\ADo\CommandObject\CommandObject\obj\Debug\CommandObject.Properties.Resources.resources
+C:\CIS258\ADo\CommandObject\CommandObject\obj\Debug\CommandObject.csproj.GenerateResource.Cache
+C:\CIS258\ADo\CommandObject\CommandObject\obj\Debug\CommandObject.exe
+C:\CIS258\ADo\CommandObject\CommandObject\obj\Debug\CommandObject.pdb

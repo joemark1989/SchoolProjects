@@ -1,0 +1,10 @@
+C:\Users\joseph\source\repos\StringNames\StringNames\bin\Debug\StringNames.exe.config
+C:\Users\joseph\source\repos\StringNames\StringNames\bin\Debug\StringNames.exe
+C:\Users\joseph\source\repos\StringNames\StringNames\bin\Debug\StringNames.pdb
+C:\Users\joseph\source\repos\StringNames\StringNames\obj\Debug\StringNames.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\StringNames\StringNames\obj\Debug\StringNames.Form1.resources
+C:\Users\joseph\source\repos\StringNames\StringNames\obj\Debug\StringNames.Properties.Resources.resources
+C:\Users\joseph\source\repos\StringNames\StringNames\obj\Debug\StringNames.csproj.GenerateResource.cache
+C:\Users\joseph\source\repos\StringNames\StringNames\obj\Debug\StringNames.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\StringNames\StringNames\obj\Debug\StringNames.exe
+C:\Users\joseph\source\repos\StringNames\StringNames\obj\Debug\StringNames.pdb

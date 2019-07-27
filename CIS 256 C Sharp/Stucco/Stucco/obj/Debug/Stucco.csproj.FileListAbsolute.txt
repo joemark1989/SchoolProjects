@@ -1,0 +1,10 @@
+C:\Users\joseph\source\repos\Stucco\Stucco\bin\Debug\1.exe.config
+C:\Users\joseph\source\repos\Stucco\Stucco\bin\Debug\1.exe
+C:\Users\joseph\source\repos\Stucco\Stucco\bin\Debug\1.pdb
+C:\Users\joseph\source\repos\Stucco\Stucco\obj\Debug\Stucco.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\Stucco\Stucco\obj\Debug\Stucco.Form1.resources
+C:\Users\joseph\source\repos\Stucco\Stucco\obj\Debug\Stucco.Properties.Resources.resources
+C:\Users\joseph\source\repos\Stucco\Stucco\obj\Debug\Stucco.csproj.GenerateResource.cache
+C:\Users\joseph\source\repos\Stucco\Stucco\obj\Debug\Stucco.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\Stucco\Stucco\obj\Debug\1.exe
+C:\Users\joseph\source\repos\Stucco\Stucco\obj\Debug\1.pdb

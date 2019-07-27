@@ -1,0 +1,18 @@
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\bin\Debug\CommandObject.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\bin\Debug\CommandObject.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.frmCommand.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.Properties.Resources.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\obj\Debug\ExecuteReader.csprojResolveAssemblyReference.cache
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\ExecuteReader\CommandObject\obj\Debug\ExecuteReader.csproj.GenerateResource.Cache
+W:\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.exe
+W:\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.pdb
+W:\ADO\ExecuteReader\CommandObject\bin\Debug\CommandObject.exe
+W:\ADO\ExecuteReader\CommandObject\bin\Debug\CommandObject.pdb
+W:\ADO\ExecuteReader\CommandObject\obj\Debug\ExecuteReader.csprojResolveAssemblyReference.cache
+W:\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.frmCommand.resources
+W:\ADO\ExecuteReader\CommandObject\obj\Debug\CommandObject.Properties.Resources.resources
+W:\ADO\ExecuteReader\CommandObject\obj\Debug\ExecuteReader.csproj.GenerateResource.Cache

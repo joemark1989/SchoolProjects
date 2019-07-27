@@ -1,0 +1,16 @@
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\bin\Debug\CommandObject.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\bin\Debug\CommandObject.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\obj\Debug\ResolveAssemblyReference.cache
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.frmCommand.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.Properties.Resources.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\obj\Debug\ResGen.read.1.tlog
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\CIS258\ADO\CommandObject\CommandObject\obj\Debug\ResGen.write.1.tlog
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\CommandObject\CommandObject\bin\Debug\CommandObject.exe
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\CommandObject\CommandObject\bin\Debug\CommandObject.pdb
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.frmCommand.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.Properties.Resources.resources
+P:\Business, Hospitality & Information Technology\Computer Information Systems\Affholter\ADO\CommandObject\CommandObject\obj\Debug\CommandObject.csproj.GenerateResource.Cache

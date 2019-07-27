@@ -1,0 +1,7 @@
+C:\Users\joseph\source\repos\PracticeAllDay\PracticeAllDay\obj\Debug\PracticeAllDay.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\PracticeAllDay\PracticeAllDay\obj\Debug\PracticeAllDay.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\PracticeAllDay\PracticeAllDay\bin\Debug\PracticeAllDay.exe.config
+C:\Users\joseph\source\repos\PracticeAllDay\PracticeAllDay\bin\Debug\PracticeAllDay.exe
+C:\Users\joseph\source\repos\PracticeAllDay\PracticeAllDay\bin\Debug\PracticeAllDay.pdb
+C:\Users\joseph\source\repos\PracticeAllDay\PracticeAllDay\obj\Debug\PracticeAllDay.exe
+C:\Users\joseph\source\repos\PracticeAllDay\PracticeAllDay\obj\Debug\PracticeAllDay.pdb
